@@ -19,7 +19,7 @@ in this repo I wrote polyfills of :
 
 ## output of code 
 ![example](./imgs/polyfills-example.png)
-![output](./imgs/run-polyfills.png.png)
+![output](./imgs/run-polyfills.png)
 
 
 ---
